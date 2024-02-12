@@ -6,8 +6,9 @@ More specifically:
 - the model_definition.py file contains the model definition (duh?)
 - training was done in two steps: first 15k iterations on a dataset containing the 30k most common US names taken from [ssa.gov](https://www.ssa.gov/oact/babynames/)  and then 800 "fine-tuning" iterations on a dataset containing all (real) Pokemon names. The idea behind this two step training is that there are only ~900 unique Pokemon names, which are not enough to fully train the network. By pre-training the network on real (human) names the model is better able to learn, while avoiding overfitting.
 - the file pkm_run.ipynb demonstrates the functioning of the model.
-Is this architecture overkill for this task? Most likely.
-Was it fun to code? YES
+
+Is this architecture overkill for this task? Most likely.\
+Was it fun and worth the hussle? YES
 
 Example of a team GPT was able to generate are:
 ```

@@ -19,3 +19,4 @@ Cangrost
 p.s. Mantle (beside being an english word) is an actual character from the Pokemon cartoon. The model has then generate, totally by itself because Mantle is not in the trainig data, a real name. How cool is that!
 
 To complete this I was curious of how these would look like. This is what Dall-E thinks:
+![Picture1](https://github.com/lorenzo-costa/Generate-Pokemon-Team/assets/149969774/77805b56-867d-4e83-b897-b1f6f6baab63)
